@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{9b29c042-e0af-465b-8599-3f3a57355673}">
+		<property name="assetPath">
+			<value>LampBuzz.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>90.35841666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{724f6f2b-2e05-49a8-b20f-a7b4b3059db7}</destination>
+		</relationship>
+	</object>
+</objects>

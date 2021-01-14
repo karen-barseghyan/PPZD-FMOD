@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{28ff4fb6-f0b7-4072-9594-15ed7304fe9b}">
+		<property name="assetPath">
+			<value>Footsteps/Dirt_Run/Dirt_Run_1.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.33691609977324261</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{724f6f2b-2e05-49a8-b20f-a7b4b3059db7}</destination>
+		</relationship>
+	</object>
+</objects>
